@@ -1,0 +1,78 @@
+THE EINZWEITERSTEIN CONJECTURE: 
+
+So FCC packing, face center cubic packing of identical spheres, gives you the densest form of packing identical spheres in 3 dimensions, it will give you 74.05% of occupied space and 25.95% of empty or unoccupied space. If you imagined the structure it forms, I call it the Spherical-tetrahedral structure (I'm the only one apparently, I just can't find the name), you'll notice that one sphere is wrapped by 8 of those tetrahedral shapes and is encapsulated by 12 spheres. This represents static space in 3 spatial dimensions.
+Spacetime is made up from quantum fields, according to the standard model, if we give each unique particle a field it would be 17, but some of them have different generations, the fermions, and the weak force has 3 bosons. If we would cut those 17 fields down to just 8, then in space, those tetrahedral shapes could be quantum fields, they would become, and note that the Higgs is a mechanism and not a force or perhaps even boson, the higgs is the geometry and just a mechanism, not a particle, but mimicking a boson nevertheless. That is already an indication that it is a mechanism in the first place. So the quantum fields become these:
+
+- up quark 
+- down quark 
+- electron
+- neutrino
+- gluon
+- photon
+- Z
+- W
+
+THEN 
+
+Each of the tetrahedral shapes will carry 1 photon field, 1 gluon field, 1 Z field and 1 W field, or all of our forces, anywhere in the universe, non-zero, still part of one geometry. The tetrahedral shapes, the energy density inside, this determines the generation of fermion, that is what dark matter is, the energy inside that tetrahedron, it's not a particle. The mechanism is to determine the fermion.
+The spheres are dark energy. If over a large distance of space all spheres would uniformly increase by even less than Planck length, it would cause all that space it was before to expand. 
+If you increase the volume of a tetrahedral shape, this causes the spheres next to it to swell favoriting that tetrahedron and become egg shaped, expansion is caused by entropy, we see this happening within and outside galaxies, within a galaxy those tetrahedral shapes are under tension preventing the space within not to expand, outside a galaxy, those spheres are subject to entropy just like everything else, causing them to grow bigger ever so slightly. The mechanism is probably a constant of entropy that increases the volume of the spheres, which causes them to swell, the bigger the volume gets, the faster the expansion becomes.
+
+SO 
+
+Kepler's conjecture (Kepler’s Theorem now, how dare we still call it a conjecture) is if we look at volume, 74.05% vs 25.95% , we postulate from the Lambda CDM that the pie chart for the universe is 68% dark energy, 27% dark matter and the rest is baryonic matter, but at the same time we also say that all this baryonic matter comes from the interactions in quantum fields, and as particles we say they are point-like, no size, no shape, they are fields in QFT, well here you go! The 5 percent of baryonic matter which requires no space, we add to dark energy again, we take 1.05% from the dark matter part and add it to the dark energy part and BAM the puzzle fits again!
+It sounds so good, but this is just a representation for static space, not dynamic space! 
+Spacetime however, is both Maryna Viazovska's E8: and FCC combined. FCC is the geometry for E8: and E8: fits into the leech lattice, so either the leech lattice will represent the multiverse, or if combination is indeed part of the series, then if E8; times the Leech Lattice or 192 dimensions also shares only 60° angles and is also a magic dimension, then the multiverse would be the pair of the Leech Lattice and 192D where FCC and E8: could be the geometry for the Leech Lattice and 192D, and Kepler's Conjecture and Maryna Viazovska's E8: and Leech Lattice are theorem!. This statement alone could be disproven if 16D and 32D are also magic dimensions sharing only 60°, but then again, there is a reason why Maryna Viazovska doesn’t have 16D nor 32D and why she went from 8 dimensions immediately to 24 dimensions.
+It's probably the key to the symmetric nature of all things. 
+Also, the densest way of packing just happens to be the least energetic state the universe could be at, this cannot be ignored!
+Don't worry about the neutrinos being asymmetric, we just assume only 4 dimensions, while our universe must be symmetric too, so that means 8 dimensions, not 4. Just like the Higgs, just like the mismatch in weight for galaxies, we need to double our dimensions to 8D to solve it.
+
+HOWEVER 
+
+This would suggest an anti-verse, how else are we going from 4D to 8D? 
+--> symmetry, the pie chart isn't 68 , 5 and 27, the pie chart for both parts of the universe is just 74.05% and 25.95%, the structure remains the same for both, GR works in both, and this anti-verse might be the place for anti-particles too, so this means I'm not reducing 17 fields to just 8, I'm just not allocating a field for the Higgs boson, because it's a mechanism, but in both verse's, there are 8 fields tied to the tetrahedral shapes. So 16 fields, not 17. 
+The reason why there are only right-handed neutrino and left-handed anti-neutrinos and a W+ and W-, this CP violation may be because of the singularity between the universe and anti-verse, which is the parity symmetry between both. 
+
+TO MAKE IT WORK! 
+
+when time and gravity are merged, and Einstein uses dimensions for this, this doesn't actually mean in reality that they are actual physical dimensions, they are dimensions in math. So time and gravity merged could be the actual mechanism to make this work. 
+Just like the Higgs is not really a boson but a mechanism and the addition of multiple particles gives us the Higgs boson. This could be the mechanism to make all of this work dynamically. 
+There could be a duality between General Relativity and the Higgs mechanism, if you consider that the higgs-field, is the actual geometry. 
+General relativity describes this geometry in both verses, his theory is just half the universe, who would've thought except me?! 
+
+P.S.
+
+EPR=ER could be interdimensional then instead of a wormhole and entanglement will have a broader meaning then too! 
+INFLATION is the LAST symmetry breaking of spacetime! 
+DOT --> couple Planck seconds later at the speed of light 
+--> LINE --> couple Planck seconds later at the speed of light 
+--> CIRCLE (here's where inflation begins) couple Planck seconds later at the speed of light from an already big area to and even bigger space 
+---> SPHERE! 
+
+
+SUPER DUPER IMPORTANT! 
+
+I'm going to be all like Newton this time, he invented calculus, I'm about to reveal "Tetrahedral Mathematics" to you! 
+
+TETRAHEDRAL MATH 
+
+Instead of defining dimensions in our calculations, some brain you have Maryna Viazovska for this, we treat each dimension separately. Why a tetrahedron? simple, 4 sides, 4 dimensions according to einstein, 4 sides to treat them separate from each other, X, Y, Z and T on each dimension we can run integrals and differentials (calculus), that's near approximations, so we can keep our margin for error near zero if we want, and we do want that, also functions, operators, the whole 9 yards. When we're done, we take a resultant of the 4, that's about force and angle of that force (particle angular momentum and position, Schrödinger), and then we run the Schrödinger equation for a nice margin free almost result. Spacetime is 4D (8D if you account for the antiverse), 
+
+FCC is a static representation for space, E8: and the Leech Lattice (24D) are dynamic representations for spacetime and multiverse, so that could even mean that 8 times 24 or E8: times the Leech Lattice, is also another only 60° angle densest form of packing sphere to be proven option, and that is another number in the category, so E8 x LL X next one, and so on, will share 60° angles only in common.  (I super highly doubt this, but this is a way to prove that 24D is the last only 60° angle lattice with the densest way of packing in that many dimensions) 
+To check, it has to be a multiple of 4, FCC is the CRC check in this one in computer language. 
+
+If 4 is the number of times galaxies has to be heavier, then each dimension has to be doubled, accounting for weight in antimatter, fitting this conjecture nicely, then Dark Energy and Dark Matter aren’t exotic at all but just mechanisms.
+4 will also be important in logical gates for computers on the input and output side, it must be symmetric, and with that we might find another millennium problem just like now we might find the navier stokes equation, and this can potentially give us the P vs NP solution. Wouldn't that be awesome, a geometry/structure/topology/manifold for dynamic spacetime? 
+The Navier Stokes equation we might find using my geometry and Maryna Viazovska’s E8: if we consider the quantum vortices to appear to be the symmetric legs of the tetrahedral shapes.
+The P vs NP problem, we might tackle with tetrahedral math (although this just simplifies math, it’s not really needed), symmetric logic gates with 4 ins and outs, the golay code and the leech lattice, these 4 can lead to the solution hopefully :)
+
+Isn’t that what a conjecture is supposed to do?
+If true, then GR is true, QM is true, CCC is true (my conjecture fixes his problems), inflation is correct, geometry is correct, p vs np solved perhaps, navier stokes solved perhaps, …. probably a lot more! And this reads so Occam’s Razor by 5 years of careful tweaking not diverting from the structure at all, the only 3D structure that can fit the entire standard model in an elegant and simple way, who else has that? This kind of framework?
+
+CHEERS! Written by Flor Hoorebeke, aka, Florianooke on social media! Flor.hoorebeke
+
+Flor.hoorebeke@hotmail.com
++32 456 63 12 79
+www.x.com/florianooke
+www.instagram.com/florianooke
+www.facebook.com/florianooke
