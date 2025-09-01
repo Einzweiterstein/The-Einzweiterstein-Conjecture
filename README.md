@@ -6,7 +6,7 @@ I've been depressed for about 25 years now, and 15 of which I grew mildly agorap
 hours a day. I wasn't really feeling sorry for myself, i'm quite comfortable with solitude, but it's the lack of companionship
 that is the hardest sometimes, somebody to talk to, because that is what people won't do, talk to me, i'm always the one that has to start
 except for one person, a friend of mine, he just won't shut up.
-But, I was smart, I educated myself some physics and invention a lot of cool stuff, waiting to become a reality, like a new hyperloop design,
+But, I was smart, I educated myself some physics and invented a lot of cool stuff, waiting to become a reality, like a new hyperloop design,
 a global array of radio telescopes 50km high, a new type of aerogel, a new type of construction material from waste, etc...
 So physics, I just left theories left and right of me, I don't understand the math behind it anyway, that I still have to learn, starting with
 cos,sin, tan, functions, operators, integrals, differentials, calculus (which is the last 2) , and my own tetrahedral math! But, I did
