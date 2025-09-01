@@ -1,3 +1,14 @@
+So, are you ready for a Theory of Everything???
+Well, too bad, you have to have CCC of Roger Penrose too, and I don't have it, but together they make a ToE :-)
+
+
+
+
+
+
+
+
+
 So, A little about me,
 My name is Flor Hoorebeke, i'm 50, dropped out of school before I had the chance to learn more about cosinus, sinus, tangent, ...
 I've been depressed for about 25 years now, and 15 of which I grew mildly agoraphobic and locked myself up in my own room for 22
