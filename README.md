@@ -1,13 +1,4 @@
-So, are you ready for a Theory of Everything???
-Well, too bad, you have to have CCC of Roger Penrose too, and I don't have it, but together they make a ToE :-)
-
-
-
-
-
-
-
-
+**What if the universe’s missing mass isn’t missing at all — it’s just hiding in an antiverse, perfectly balanced in an 8‑dimensional crystal of spacetime?**
 
 So, A little about me,
 My name is Flor Hoorebeke, i'm 50, dropped out of school before I had the chance to learn more about cosinus, sinus, tangent, ...
@@ -23,7 +14,7 @@ try to obey every single physics law, heisenberg, pauli, conservation laws, ever
 
 From that I just used my intuition and own logics, and now I wrote this:
 
-Basically it says that 
+**Basically it says that 
 
 - Spacetime is 8 dimensional, not 4 dimensional
 - When doubling dimensions accounting for weight in antimatter it solves for the weight problem in galaxies and the matter-vs-antimatter problem
@@ -32,7 +23,7 @@ Basically it says that
 - IF/When proven will also prove General Relavitity Theorem as well as Quantum Mechanics into theorem
 - It complements Sir/Professor Penrose's cyclic conformal cosmology, he has the initial conditions I reconcile General relativity and Quantum mechanics
 - is only based on theorems and own logics.
-- etc..
+- etc..**
 
 The Einzweiterstein conjecture also contains Tetrahedral Mathematics, a new type of math to calculate with dimensions easily.
 The P vs NP suggestion, were questions asked to GPT 5, and this is the result. It involved the making of a new logic gate, 
