@@ -19,7 +19,7 @@ From that I just used my intuition and own logics, and now I wrote this:
 - Spacetime is 8 dimensional, not 4 dimensional
 - When doubling dimensions accounting for weight in antimatter it solves for the weight problem in galaxies and the matter-vs-antimatter problem
 - Inflation is the LAST symmetry breaking of spacetime
-- The higgs, Dark matter and Dark energy are all mechanisms, and the higgs is also the geometry itself mimicking a bosonic state
+- The higgs, Dark matter and Dark energy are all mechanisms, and the higgs is the E8: lattice itself, mimicking a bosonic state
 - IF/When proven will also prove General Relavitity Theorem as well as Quantum Mechanics into theorem
 - It complements Sir/Professor Penrose's cyclic conformal cosmology, he has the initial conditions I reconcile General relativity and Quantum mechanics
 - is only based on theorems and own logics.
